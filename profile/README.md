@@ -35,4 +35,4 @@ A cross-platform Java Swing based GUI application to view information about your
 
 ---
 
-Logo Desing By: [Soumil Biswas](https://github.com/Soumil-Biswas)
+Logo Design By: [Soumil Biswas](https://github.com/Soumil-Biswas)
