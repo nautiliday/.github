@@ -32,3 +32,7 @@ A cross-platform Java Swing based GUI application to view information about your
 [32-bit Windows Releases](https://github.com/nautiliday/nautilus-windows-x86/releases)
 
 [64-bit Linux Releases](https://github.com/nautiliday/nautilus-linux/releases)
+
+---
+
+Logo Desing By: [Soumil Biswas](https://github.com/Soumil-Biswas)
