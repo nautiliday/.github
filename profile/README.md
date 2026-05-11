@@ -22,9 +22,10 @@ A cross-platform Java Swing based GUI application to view information about your
 
 # Download
 
-> [!WARNING]
+> [!CAUTION]
 > Pre-built binaries are unsigned. Only download them from official and trusted sources.
-> Your AV/SmartScreen may flag the executable and prevent it from running.
+> Your AV/SmartScreen may flag the executable and prevent it from running. You can build from source to avoid this warning.
+> Instructions for building from source are available in individual repositories.
 
 [Windows Releases](https://github.com/nautiliday/nautilus-windows/releases)
 
