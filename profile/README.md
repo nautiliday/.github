@@ -2,6 +2,19 @@
 
 A cross-platform Java Swing based GUI application to view information about your hardware.
 
+# Build Status
+
+![Windows 32-Bit](https://img.shields.io/github/actions/workflow/status/nautiliday/nautilus-windows-x86/.github%2Fworkflows%2Fbuild-and-release.yaml?style=for-the-badge&label=Windows%2032-Bit)
+![Windows 64-Bit](https://img.shields.io/github/actions/workflow/status/nautiliday/nautilus-windows/.github%2Fworkflows%2Fbuild-and-release.yaml?style=for-the-badge&label=Windows%2064-Bit)
+![Linux 64-Bit](https://img.shields.io/github/actions/workflow/status/nautiliday/nautilus-linux/.github%2Fworkflows%2Fbuild-and-release.yml?style=for-the-badge&label=Linux%2064-Bit)
+
+# Latest Release Versions
+
+[![Windows 32-Bit Latest Version](https://img.shields.io/github/v/release/nautiliday/nautilus-windows?style=for-the-badge&label=Windows%2032-Bit)](https://github.com/nautiliday/nautilus-windows-x86/releases)
+[![Windows 64-Bit Latest Version](https://img.shields.io/github/v/release/nautiliday/nautilus-windows-x86?style=for-the-badge&label=Windows%2064-Bit)](https://github.com/nautiliday/nautilus-windows/releases)
+[![Linux 64-Bit Latest Version](https://img.shields.io/github/v/release/nautiliday/nautilus-linux?style=for-the-badge&label=Linux%2064-Bit)](https://github.com/nautiliday/nautilus-linux/releases)
+
+
 # Supported Platforms
 
 ### Windows
@@ -16,7 +29,7 @@ A cross-platform Java Swing based GUI application to view information about your
 - Requires `dmidecode` to be installed
 - 32-bit platforms are currently unsupported
 
-### Mac
+### Mac OS
 
 - Planned
 
